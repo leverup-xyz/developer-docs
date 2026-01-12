@@ -43,7 +43,6 @@ const pairs = [
 **500BTC/USD** and **500ETH/USD** are special high-leverage pairs designed for active trading. These pairs operate under LeverUp's **Zero-Fee Perpetuals** model.
 
 -   **Zero Opening/Closing Fees**: You pay 0 fees if your PnL is negative.
--   **Zero Borrow/Funding Fees**: No holding costs or funding payments.
 -   **Profit Sharing**: A portion of profits is shared with the protocol only when the trade is profitable.
 
 > **Principle**: "If PnL < 0 → You pay 0 fees".
