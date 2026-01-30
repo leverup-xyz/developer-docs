@@ -18,6 +18,7 @@ export default defineConfig({
           { text: 'Contract Addresses', link: '/guide/contracts' },
           { text: 'Supported Pairs', link: '/guide/supported-pairs' },
           { text: 'Pair Slippage Config', link: '/guide/pair-slippage-config' },
+          { text: 'Trading Events', link: '/guide/trading-events' },
           { text: 'LVToken Parameter Guide', link: '/guide/lv-token' }
         ]
       },
